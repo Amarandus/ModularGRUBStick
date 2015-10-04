@@ -6,6 +6,13 @@ Handwritten configurations for a modular multiboot usb stick.
 Please use with caution, it is not my fault if you destroy your system. You have been warned.
 Do whatever you want to with this, I don't really care.
 
+This Repo is just for releasing the files to help other users, as it was somewhat hard to get this rolling in a nice way.
+I can not repeat myself enough, this is not well maintained and is only created for publishing reasons!
+
+
+The configs are somewhat old, as I did not update for a while. You may fix this by yourself, if you want to.
+
+
 UEFI should be coming up soon (An indicator/tutorial for installation maybe).
 
 
