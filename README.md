@@ -13,7 +13,7 @@ I can not repeat myself enough, this is not well maintained and is only created 
 The configs are somewhat old, as I did not update for a while. You may fix this by yourself, if you want to.
 
 
-UEFI should be coming up soon (An indicator/tutorial for installation maybe).
+UEFI is currently not supported.
 
 
 ## Legacy-install:
